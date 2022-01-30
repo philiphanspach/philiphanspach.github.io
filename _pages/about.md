@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "You are on the landing page. Enjoy your visit. Philip"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### Hi there 👋
+This is my personal website. I use it to host my <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/gh-page/assets/files/CV_englisch__1_page_.pdf" download>resumée [click to download]</a> and things that I have written. Take a look around. If anything catches your interest, or if you would like to discuss any of the topics or texts on this website, feel free to get in touch.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🔭 I’m currently researching market power in digital markets and the role of Internet infrastructure.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+💬 Ask me about economics, crêpes recipes, places to go in Florence, Italy.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+🌱 I’m currently learning about JavaScript and the EU bubble in Brussels.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Current research
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### Working paper: "Does buyer discretion facilitate home bias in procurement? Cross-border procurement of medical supplies under Covid-19"
+Abstract: International public procurement sees low shares of cross-border purchases despite agreements against national preferencing. Introducing a unique dataset of contract awards for medical supplies in 27 European countries 2018 - 2020, we find a large, temporary surge in cross-border awards as the net effect of the Covid-19 pandemic and targeted deregulation. Two difference-in-differences regressions identify effects of crisis urgency and increased buyer discretion on cross-border procurement. The effects are economically large, as deregulation (a one-standard deviation increase in infection rates) increases the share of cross-border awards by 35.7 (19.3) percentage points over a baseline of 1.5 percent.
+<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/gh-page/assets/files/Procurement medical supplies.pdf" download>click to download</a>
 
-**Markdown generator**
+## Other publications
+#### Improving health resilience through better procurement of medical supplies : lessons from the COVID-19 Pandemic
+Technical Report, STG Resilience Papers, 2021. The STG Resilience Paper is part of the Commission Research Report and Interim Progress Report (June 2021) published by Reform for Resilience.
+<a href="https://cadmus.eui.eu/handle/1814/71677" download>Download from Cadmus, the EUI Research Repository.</a> 
+<a href="https://www.r4rx.org/research-submissions" download>Also available from Reform for Resilience</a>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+#### The European Union’s Big Policy Bet Against the Tech Giants
+with Nicolas Petit. Published on Promarket, the publication of the Stigler Center at the University of Chicago Booth School of Business, 02.11.2021.
+<a href="https://promarket.org/2021/11/02/the-european-unions-big-policy-bet-against-the-tech-giants/" download>Read online</a>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+#### Unlocking the potential of AI : opportunities and challenges for European policy
+with Marina Sanchez del Villar, Policy Briefs; 2021/16; Florence School of Regulation (Communications and Media).
+<a href="https://cadmus.eui.eu/handle/1814/71601" download>Download from Cadmus, the EUI Research Repository</a>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+#### Zur Weiterwälzung von Preisaufschlägen (On the Pass-On of Overcharges)
+with Frank Maier-Rigaud and C.-Philipp Heller, Journal of German and European Competition Law (WuW, Wirtschaft und Wettbewerb), 69(11), 561-568 [in German]. 
+<a href="https://papers.ssrn.com/abstract=3426049" download>Link to SSRN</a>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+#### Zur Weiterwälzung von Preisaufschlägen in regulierten Industrien (On the Pass-on of Overcharges in Regulated Industries) 
+with Frank Maier-Rigaud and C.-Philipp Heller, Neue Zeitschrift für Kartellrecht (NZKart), 12/2019, 650-658 [in German]. 
+<a href="https://papers.ssrn.com/abstract=3439294" download>Link to SSRN</a>
