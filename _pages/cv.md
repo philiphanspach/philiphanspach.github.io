@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+Short summary. For details, download my pdf CV or see LinkedIn.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Volkswirtschaftslehre B.Sc. (B.Sc. in Economics), Rheinische Friedrich-Wilhelms-Universität Bonn (University of Bonn), 2012
+* Master in Economics, Toulouse School of Economics, 2017
+* Ph.D in PhD in Economics, European University Institute, 2023 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* European University Institute: Research assistant, teaching assistant
+  * 11/2021-01/2022: Teaching Assistant for Prof. Giacomo Calzolari in "Advanced Industrial Organization", a course for 2nd-year PhD students.
+  * 09/2021-11/2021: Research Assistant for Prof. Giacomo Calzolari for a project on algorithmic repricing, including data collection and analysis.
+  * 11/2020-07/2021: Research Assistant for interdisciplinary cluster "Technological Change and Society": general administrative tasks, communication, event organization.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* New York University - Florence Campus: Grader
+  * 10/2021 - 12/2021: Created and graded problem sets and exams (with a colleague) to support the undergraduate course in econometrics, taught by Prof. Giampiero M. Gallo, based on Wooldridge, Introductory Econometrics (7th ed.)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* NERA Economic Consulting GmbH: Research Officer, promoted to Economic Analyst
+  * 10/2017 - 09/2019: Contributed to over 10 projects dealing with merger clearance and cartel damages claims (EU/national).
+  * Communication with clients and their legal counsel.
+  * Conducted a wide range of analytical tasks, including econometric analyses of time-series and panel data in large and small samples. Independent writing of and contribution to economic reports to be submitted for litigation.
+  * Industries I have worked with: chemicals, sugar, public transport, FMCG, automotive, telecommunication, payment cards.
+
+* Toulouse School of Economics: Research Assistant
+  * 10/2021 - 12/2021: Analyzed and organized micro-level data on household expenditure for a project on consumer behavior. Researched appropriate econometric methods for analysis of panel data.
+
+* Université Toulouse 1 - Capitole: Teaching Assistant
+  * 01/2017 – 04/2017: Gave tutorials (in French) for a first-year Macroeconomics class. Corrected exams in a first-year Macroeconomics class.
+
+* Südwesttextil e.V.: Intern
+  * 05/2016 – 07/2016: Directly supported the director of a trade association representing the textile and clothing industry in south-west Germany.
+
+* Legion Concepts: Finance Intern/Budget Control Specialist
+  * 03/2015 – 09/2015: Helped prepare the first product launch of a startup, researched market environment, priced a high-tech bag in a crowdfunding environment, established media contact in Germany, applied data mining tools to find and contact influencers.
+
+* Institute for Financial Economics and Statistics, University of Bonn: Teaching Assistant
+  * 04/2015 – 07/2015: Gave tutorials in undergraduate-level Corporate Finance. Received an award for teaching quality by student choice.
