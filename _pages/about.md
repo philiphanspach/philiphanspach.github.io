@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "You are on the landing page. Enjoy your visit. Philip"
+title: "Landing page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ This is my personal website. I use it to host my <a href="https://github.com/Phi
 
 💬 Ask me about economics, crêpes recipes, places to go in Florence, Italy.
 
-🌱 I’m currently learning about JavaScript and the EU bubble in Brussels.
+🌱 I’m currently learning about competition law enforcement and the EU bubble in Brussels.
 
 ## Current research
 
