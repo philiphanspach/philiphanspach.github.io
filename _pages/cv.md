@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Short summary. For details, download my pdf CV or see LinkedIn.
+A short summary. For details, download my pdf CV or see LinkedIn.
 
 Education
 ======
