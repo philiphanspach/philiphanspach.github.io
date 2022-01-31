@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Hi there 👋
-This is my personal website. I use it to host my CV <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/files/Academic_CV_ph.pdf" download> [click to download]</a> and things that I have written. If anything catches your interest, or if you would like to discuss any of the topics or texts on this website, feel free to get in touch.
+This is my personal website. I use it to host my CV <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/files/Academic_CV_ph.pdf" download> [click to download]</a> and things that I have written. If anything catches your interest, or if you would like to discuss any of the topics or texts on this website, feel free to get in touch. 
 
 🔭 I’m currently researching market power in digital markets and the role of Internet infrastructure.
 
@@ -17,35 +17,4 @@ This is my personal website. I use it to host my CV <a href="https://github.com/
 
 🌱 I’m currently learning about competition law enforcement and the EU bubble in Brussels.
 
-## Research
-
-### Working paper: "Does buyer discretion facilitate home bias in procurement? Cross-border procurement of medical supplies under Covid-19"
-Abstract: International public procurement sees low shares of cross-border purchases despite agreements against national preferencing. Introducing a unique dataset of contract awards for medical supplies in 27 European countries 2018 - 2020, we find a large, temporary surge in cross-border awards as the net effect of the Covid-19 pandemic and targeted deregulation. Two difference-in-differences regressions identify effects of crisis urgency and increased buyer discretion on cross-border procurement. The effects are economically large, as deregulation (a one-standard deviation increase in infection rates) increases the share of cross-border awards by 35.7 (19.3) percentage points over a baseline of 1.5 percent.
-<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/gh-page/assets/files/Procurement medical supplies.pdf" download>Download f</a>
-
-###  Working paper: "The European Internal Energy Market’s Worth to the UK"
-with Farid Gasmi, TSE Working Paper, n° 19-1052, 11/2019. 
-Abstract: This article proposes a two-country model of electricity trade under peak-load pricing. We apply the model to France and the UK to assess the benefit to the UK of trade within the European internal energy market (IEM). Calibration and simulations of the model aimed at simulating bilateral trade in the market coupling process at electricity exchanges show the following. First, the occurrence of gains from trade for both countries is highly dependent on whether imported electricity affects the price in the local market and whether imports alleviate scarcity. Second, the main effect of importing electricity is a shift in welfare from domestic producers to domestic consumers of the importing country. Finally, the UK’s membership in the IEM generates additional welfare for the UK of up to 900 M€ per year across a range of scenarios in which the number of on-peak periods are exogenously varied in a conservative way relative to the actual data.
-<a href="http://publications.ut-capitole.fr/33483/1/wp_tse_1052.pdf" download>click to download</a> 
-
-## Other publications
-#### Improving health resilience through better procurement of medical supplies : lessons from the COVID-19 Pandemic
-Technical Report, STG Resilience Papers, 2021. The STG Resilience Paper is part of the Commission Research Report and Interim Progress Report (June 2021) published by Reform for Resilience.
-<a href="https://cadmus.eui.eu/handle/1814/71677" download>Download from Cadmus, the EUI Research Repository.</a> 
-<a href="https://www.r4rx.org/research-submissions" download>Also available from Reform for Resilience</a>
-
-#### The European Union’s Big Policy Bet Against the Tech Giants
-with Nicolas Petit. Published on Promarket, the publication of the Stigler Center at the University of Chicago Booth School of Business, 02.11.2021.
-<a href="https://promarket.org/2021/11/02/the-european-unions-big-policy-bet-against-the-tech-giants/" download>Read online</a>
-
-#### Unlocking the potential of AI : opportunities and challenges for European policy
-with Marina Sanchez del Villar, Policy Briefs; 2021/16; Florence School of Regulation (Communications and Media).
-<a href="https://cadmus.eui.eu/handle/1814/71601" download>Download from Cadmus, the EUI Research Repository</a>
-
-#### Zur Weiterwälzung von Preisaufschlägen (On the Pass-On of Overcharges)
-with Frank Maier-Rigaud and C.-Philipp Heller, Journal of German and European Competition Law (WuW, Wirtschaft und Wettbewerb), 69(11), 561-568 [in German]. 
-<a href="https://papers.ssrn.com/abstract=3426049" download>Link to SSRN</a>
-
-#### Zur Weiterwälzung von Preisaufschlägen in regulierten Industrien (On the Pass-on of Overcharges in Regulated Industries) 
-with Frank Maier-Rigaud and C.-Philipp Heller, Neue Zeitschrift für Kartellrecht (NZKart), 12/2019, 650-658 [in German]. 
-<a href="https://papers.ssrn.com/abstract=3439294" download>Link to SSRN</a>
+Use the links at the top to see my research projects and papers, my teaching experience, and a CV.
