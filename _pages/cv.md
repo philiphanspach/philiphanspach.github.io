@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A short summary. For details, download my pdf CV or see LinkedIn.
+A short summary. For details, download my pdf CV <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/files/Academic_CV_ph.pdf" download> [click to download]</a>  or see LinkedIn.
 
 Education
 ======
