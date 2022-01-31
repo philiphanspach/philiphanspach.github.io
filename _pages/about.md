@@ -17,7 +17,7 @@ This is my personal website. I use it to host my CV <a href="https://github.com/
 
 🌱 I’m currently learning about competition law enforcement and the EU bubble in Brussels.
 
-## Current research
+## Research
 
 ### Working paper: "Does buyer discretion facilitate home bias in procurement? Cross-border procurement of medical supplies under Covid-19"
 Abstract: International public procurement sees low shares of cross-border purchases despite agreements against national preferencing. Introducing a unique dataset of contract awards for medical supplies in 27 European countries 2018 - 2020, we find a large, temporary surge in cross-border awards as the net effect of the Covid-19 pandemic and targeted deregulation. Two difference-in-differences regressions identify effects of crisis urgency and increased buyer discretion on cross-border procurement. The effects are economically large, as deregulation (a one-standard deviation increase in infection rates) increases the share of cross-border awards by 35.7 (19.3) percentage points over a baseline of 1.5 percent.
