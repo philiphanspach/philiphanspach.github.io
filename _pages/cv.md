@@ -17,7 +17,18 @@ Education
 * Master in Economics, Toulouse School of Economics, 2017
 * Ph.D in PhD in Economics, European University Institute, 2023 (expected)
 
-Experience
+Full-time work
+======
+* European Commission, DG COMP, Chief economist team: Trainee
+  * 01/2022 - 05/2022: Economic analysis in merger and antitrust cases.
+
+* NERA Economic Consulting GmbH: Research Officer, promoted to Economic Analyst
+  * 10/2017 - 09/2019: Contributed to over 10 projects dealing with merger clearance and cartel damages claims (EU/national).
+  * Communication with clients and their legal counsel.
+  * Conducted a wide range of analytical tasks, including econometric analyses of time-series and panel data in large and small samples. Independent writing of and contribution to economic reports to be submitted for litigation.
+  * Industries I have worked with: chemicals, sugar, public transport, FMCG, automotive, telecommunication, payment cards.
+ 
+Part-time work
 ======
 * European University Institute: Research assistant, teaching assistant
   * 11/2021-01/2022: Teaching Assistant for Prof. Giacomo Calzolari in "Advanced Industrial Organization", a course for 2nd-year PhD students.
@@ -27,11 +38,7 @@ Experience
 * New York University - Florence Campus: Grader
   * 10/2021 - 12/2021: Created and graded problem sets and exams (with a colleague) to support the undergraduate course in econometrics, taught by Prof. Giampiero M. Gallo, based on Wooldridge, Introductory Econometrics (7th ed.)
 
-* NERA Economic Consulting GmbH: Research Officer, promoted to Economic Analyst
-  * 10/2017 - 09/2019: Contributed to over 10 projects dealing with merger clearance and cartel damages claims (EU/national).
-  * Communication with clients and their legal counsel.
-  * Conducted a wide range of analytical tasks, including econometric analyses of time-series and panel data in large and small samples. Independent writing of and contribution to economic reports to be submitted for litigation.
-  * Industries I have worked with: chemicals, sugar, public transport, FMCG, automotive, telecommunication, payment cards.
+
 
 * Toulouse School of Economics: Research Assistant
   * 10/2021 - 12/2021: Analyzed and organized micro-level data on household expenditure for a project on consumer behavior. Researched appropriate econometric methods for analysis of panel data.
