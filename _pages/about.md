@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Hi there 👋
-This is my personal website. I use it to host my <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/gh-page/assets/files/CV_englisch__1_page_.pdf" download>resumée [click to download]</a> and things that I have written. Take a look around. If anything catches your interest, or if you would like to discuss any of the topics or texts on this website, feel free to get in touch.
+This is my personal website. I use it to host my resumée <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/assets/files/CV_englisch__1_page_.pdf" download> [click to download]</a> and things that I have written. Take a look around. If anything catches your interest, or if you would like to discuss any of the topics or texts on this website, feel free to get in touch.
 
 🔭 I’m currently researching market power in digital markets and the role of Internet infrastructure.
 
