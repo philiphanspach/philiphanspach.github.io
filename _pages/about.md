@@ -17,4 +17,4 @@ This is my personal website. I use it to host my CV <a href="https://github.com/
 
 🌱 I’m currently learning about competition law enforcement and the EU bubble in Brussels.
 
-Use the links at the top to see my research projects and papers, my teaching experience, and a CV.
+Use the links at the top to see my research projects and papers, my teaching experience, and a CV. My contact details and presence on other websites are on the left.
