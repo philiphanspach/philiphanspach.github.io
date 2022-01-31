@@ -13,9 +13,9 @@ A short summary. For details, download my pdf CV <a href="https://github.com/phi
 
 Education
 ======
-* Volkswirtschaftslehre B.Sc. (B.Sc. in Economics), Rheinische Friedrich-Wilhelms-Universität Bonn (University of Bonn), 2012
+* PhD in Economics, European University Institute, 2023 (expected)
 * Master in Economics, Toulouse School of Economics, 2017
-* Ph.D in PhD in Economics, European University Institute, 2023 (expected)
+* Volkswirtschaftslehre B.Sc. (B.Sc. in Economics), Rheinische Friedrich-Wilhelms-Universität Bonn (University of Bonn), 2015
 
 Full-time work
 ======
