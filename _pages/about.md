@@ -17,4 +17,4 @@ I am Philip Hanspach, a PhD candidate in economics at European University Instit
 
 🌱 I’m currently learning about competition law enforcement and the EU bubble in Brussels.
 
-Use the links at the top to see my research projects and papers, my teaching experience, and a CV. My contact details are on the left.
+Use the links at the top to see my research projects, publications and a CV. My contact details are on the left.
