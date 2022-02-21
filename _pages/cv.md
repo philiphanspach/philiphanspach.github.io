@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A short summary. For details, download my pdf CV <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/files/Academic_CV_ph.pdf" download> [click to download]</a>  or see LinkedIn.
+A short summary. For details, download my pdf CV <a href="https://github.com/philiphanspach/philiphanspach.github.io/tree/master/files/Academic_CV_ph.pdf" download> [click to download]</a>  or see LinkedIn. For more detailed explanations on my teaching experience, see the appropriate site on this website.
 
 Education
 ======
@@ -37,7 +37,6 @@ Part-time work
 
 * New York University - Florence Campus: Grader
   * 10/2021 - 12/2021: Created and graded problem sets and exams (with a colleague) to support the undergraduate course in econometrics, taught by Prof. Giampiero M. Gallo, based on Wooldridge, Introductory Econometrics (7th ed.)
-
 
 
 * Toulouse School of Economics: Research Assistant
