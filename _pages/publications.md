@@ -23,12 +23,15 @@ Abstract: International public procurement sees low shares of cross-border purch
 
 ###  Working paper: "The European Internal Energy Market’s Worth to the UK"
 with Farid Gasmi, TSE Working Paper, n° 19-1052, 11/2019. 
+
 Abstract: This article proposes a two-country model of electricity trade under peak-load pricing. We apply the model to France and the UK to assess the benefit to the UK of trade within the European internal energy market (IEM). Calibration and simulations of the model aimed at simulating bilateral trade in the market coupling process at electricity exchanges show the following. First, the occurrence of gains from trade for both countries is highly dependent on whether imported electricity affects the price in the local market and whether imports alleviate scarcity. Second, the main effect of importing electricity is a shift in welfare from domestic producers to domestic consumers of the importing country. Finally, the UK’s membership in the IEM generates additional welfare for the UK of up to 900 M€ per year across a range of scenarios in which the number of on-peak periods are exogenously varied in a conservative way relative to the actual data.
 <a href="http://publications.ut-capitole.fr/33483/1/wp_tse_1052.pdf" download>Download from UT Capitole</a> 
 
+### Internet infrastructure and competition in digital markets
+Abstract: Large platform companies increasingly integrate vertically by building Internet infrastructure. These investments enable new and tiered services while reducing dependence on third-party suppliers. I model competing investment incentives in Internet infrastructure for an upstream player and a large downstream platform facing small rival platforms without own infrastructure. Investment incentives increase discontinuously both upstream and downstream when the downstream platform has the larger infrastructure. The upstream player benefits from "commoditization" when it has the smaller network. I discuss the model implications for competition with small downstream platforms without proprietary infrastructure, network access regulation, and net neutrality. <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/Internet infrastructure.pdf" download>Coming soon.</a> 
+
 ## Work in progress (ask for working papers or conference papers):
 
-### Internet infrastructure and competition in digital markets
 ### Customer recognition and mobile geo-targeting (with Geza Sapi, Tim Reiz, Irina Baye. R&R at RIO)
 ### Analyzing exclusive dealing in two-sided markets: marketplaces for videogames
 ### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, under review)
