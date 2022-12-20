@@ -44,7 +44,7 @@ Abstract: This article proposes a two-country model of electricity trade under p
 with Magdalena Viktoria Kuyterink, Competition Policy International (forthcoming).
 
 #### The hidden layer: Does big tech’s control of internet infrastructure stifle competition in digital markets?
-Competition Law Insight, 21.10.2022 <a href="[https://www.r4rx.org/research-submissions](https://www.competitionlawinsight.com/competition-issues/the-hidden-layer-152729.htm)" download>Access at CLI (paywall).</a> 
+Competition Law Insight, 21.10.2022 <a href="https://www.competitionlawinsight.com/competition-issues/the-hidden-layer-152729.htm" download>Access at CLI (paywall).</a> 
 
 #### Improving health resilience through better procurement of medical supplies : lessons from the COVID-19 Pandemic
 Technical Report, STG Resilience Papers, 2021. The STG Resilience Paper is part of the Commission Research Report and Interim Progress Report (June 2021) published by Reform for Resilience.
