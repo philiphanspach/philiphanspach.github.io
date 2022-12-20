@@ -39,6 +39,13 @@ Abstract: This article proposes a two-country model of electricity trade under p
 ### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, under review)
 
 ## Other publications
+
+#### You can (try to) keep the economists out of the DMA but you cannot keep out the economics 
+with Magdalena Viktoria Kuyterink, Competition Policy International (forthcoming).
+
+#### The hidden layer: Does big tech’s control of internet infrastructure stifle competition in digital markets?
+Competition Law Insight, 21.10.2022 <a href="[https://www.r4rx.org/research-submissions](https://www.competitionlawinsight.com/competition-issues/the-hidden-layer-152729.htm)" download>Access at CLI (paywall).</a> 
+
 #### Improving health resilience through better procurement of medical supplies : lessons from the COVID-19 Pandemic
 Technical Report, STG Resilience Papers, 2021. The STG Resilience Paper is part of the Commission Research Report and Interim Progress Report (June 2021) published by Reform for Resilience.
 <a href="https://cadmus.eui.eu/handle/1814/71677" download>Download from Cadmus, the EUI Research Repository.</a> 
