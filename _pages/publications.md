@@ -41,7 +41,7 @@ Abstract: This article proposes a two-country model of electricity trade under p
 ## Other publications
 
 #### You can (try to) keep the economists out of the DMA but you cannot keep out the economics 
-with Magdalena Viktoria Kuyterink, Competition Policy International. 22.12.2022 <a href=https://www.competitionpolicyinternational.com/you-can-try-to-keep-the-economists-out-of-the-dma-but-you-cannot-keep-out-the-economics/ download>Access at CPI (paywall).</a> 
+with Magdalena Viktoria Kuyterink, Competition Policy International. 22.12.2022 <a href="https://www.competitionpolicyinternational.com/you-can-try-to-keep-the-economists-out-of-the-dma-but-you-cannot-keep-out-the-economics/" download>Access at CPI (paywall).</a> 
 
 #### The hidden layer: Does big tech’s control of internet infrastructure stifle competition in digital markets?
 Competition Law Insight, 21.10.2022 <a href="https://www.competitionlawinsight.com/competition-issues/the-hidden-layer-152729.htm" download>Access at CLI (paywall).</a> 
