@@ -17,6 +17,16 @@ author_profile: true
 -->
 ## Research
 
+### Analyzing exclusive dealing in two-sided markets: marketplaces for videogames
+Journal of European Competition Law and Practice (forthcoming).
+
+Exclusive dealing (ED) is controversial among regulators and may sometimes require economic
+analysis. Epic's entry into online video game distribution shows that ED is an important part of an
+entrant's strategy in a two-sided marketplace. Using a simple model and structural estimation, I use sparse data sources to estimate tradeoffs
+for consumer welfare. I estimate that market entry by Epic Games Store was unprofitable
+but that it has increased consumer welfare. When network effects are particularly high, we should expect more aggressive entry strategies
+(through subsidies and ED) but also lower consumer welfare from market fragmentation. <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/exclusive_dealing_2sm_preprint.pdf" a pre-print version is available on this website</a> 
+
 ### Working paper: "Internet infrastructure and competition in digital markets"
 Abstract: Large platform companies increasingly integrate vertically by building Internet infrastructure. These proprietary infrastructures confer cost and quality advantages in digital platform markets. I model competing investment incentives for an upstream player and a vertically integrated platform facing rival platforms without proprietary infrastructure. Investment incentives increase discontinuously both the upstream player and the vertically integrated platform when the latter has the larger infrastructure. The upstream player benefits from "commodification" when it has the smaller network. The resulting increase in investment is socially efficient but decreases the market share of fringe players, reducing contestability. First published October 30, 2022. Current date see first page of the paper.
 <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/infrastructure.pdf" download> Download from this Github repository</a> 
@@ -35,7 +45,7 @@ Abstract: This article proposes a two-country model of electricity trade under p
 
 ### Customer recognition and mobile geo-targeting (with Geza Sapi, Tim Reiz, Irina Baye. R&R at RIO)
 ### Empirical project on pricing algorithms (title to be announced) with Geza Sapi
-### Analyzing exclusive dealing in two-sided markets: marketplaces for videogames
+
 ### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, under review)
 
 ## Other publications
