@@ -30,7 +30,7 @@ Full-time work
  
 Part-time work
 ======
-* European University Institute: Research assistant, teaching assistant
+* European University Institute: Research Assistant, Teaching Assistant
   * 11/2021-01/2022: Teaching Assistant for Prof. Giacomo Calzolari in "Advanced Industrial Organization", a course for 2nd-year PhD students.
   * 09/2021-11/2021: Research Assistant for Prof. Giacomo Calzolari for a project on algorithmic repricing, including data collection and analysis.
   * 11/2020-07/2021: Research Assistant for interdisciplinary cluster "Technological Change and Society": general administrative tasks, communication, event organization.
