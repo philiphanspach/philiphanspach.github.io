@@ -18,7 +18,7 @@ author_profile: true
 ## Research
 
 ### Analyzing exclusive dealing in two-sided markets: marketplaces for videogames
-Journal of European Competition Law and Practice (forthcoming).
+Journal of European Competition Law & Practice, 2023; lpad018,  Published: 26 May 2023, https://doi-org.eui.idm.oclc.org/10.1093/jeclap/lpad018
 
 Exclusive dealing (ED) is controversial among regulators and may sometimes require economic
 analysis. Epic's entry into online video game distribution shows that ED is an important part of an
