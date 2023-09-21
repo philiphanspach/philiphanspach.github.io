@@ -17,7 +17,7 @@ author_profile: true
 -->
 ## Research
 
-### Analyzing exclusive dealing in two-sided markets: marketplaces for videogames
+### "Analyzing exclusive dealing in two-sided markets: marketplaces for videogames"
 Journal of European Competition Law & Practice, 2023; lpad018,  Published: 26 May 2023, https://doi-org.eui.idm.oclc.org/10.1093/jeclap/lpad018
 
 Exclusive dealing (ED) is controversial among regulators and may sometimes require economic
@@ -27,15 +27,15 @@ for consumer welfare. I estimate that market entry by Epic Games Store was unpro
 but that it has increased consumer welfare. When network effects are particularly high, we should expect more aggressive entry strategies
 (through subsidies and ED) but also lower consumer welfare from market fragmentation. <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/exclusive_dealing_2sm_preprint.pdf" download> a pre-print version is available on this website</a> 
 
-### Working paper: "Internet infrastructure and competition in digital markets"
-Abstract: Large digital platform companies increasingly integrate vertically by building Internet infrastructure. These proprietary infrastructures confer quality advantages in markets for digital services. I model investment incentives for an infrastructure firm and a vertically-integrated firm facing a rival digital services firm without proprietary infrastructure. Small changes in the marginal cost of investment lead to a discontinuous jump in investment incentives both for the infrastructure firm and the vertically-integrated firm if the latter has more infrastructure than the former. The infrastructure firm benefits from "commoditization" when its infrastructure is smaller. I derive conditions under which the resulting increase in investment is socially efficient. As the market share of the rival firm decreases, a trade-off arises between efficiency and "contestability", a key objective in European competition policy for digital markets. First published October 30, 2022. Current date see first page of the paper.
-<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/infrastructure.pdf" download> Download from this Github repository</a> 
-
-### Working paper: "The home bias in procurement. Cross-border procurement of medical supplies under Covid-19"
-International Journal of Industrial Organization: CRESSE special edition (forthcoming)
+### "The home bias in procurement. Cross-border procurement of medical supplies under Covid-19"
+International Journal of Industrial Organization: CRESSE special edition 2023; Volume 89, Published: 23 June 2023, https://doi.org/10.1016/j.ijindorg.2023.102976
 
 Abstract: Public procurement markets are often national a general agreement national preferencing. I exploit shocks occurring during the Covid-19 pandemic to two important factors, crisis urgency, measured through local infection rates, and increased buyer discretion, to study home bias in public procurement. Two causal difference-in-difference analyses on novel data for medical supplies in Europe show that home bias is not inevitable. An increase in local infection rates by one standard deviation locally increases the share of cross-border procurement by 19.3 percentage points over a baseline of 1.5 percent. Also, deregulation that allowed for buyer discretion caused cross-border procurement to increase by more than 35 percentage points. A simple theoretical model systematizes these findings. 
 <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/procurement.pdf" download>Download from this Github repository</a>
+
+### Working paper: "Internet infrastructure and competition in digital markets"
+Abstract: Large digital platform companies increasingly integrate vertically by building Internet infrastructure. These proprietary infrastructures confer quality advantages in markets for digital services. I model investment incentives for an infrastructure firm and a vertically-integrated firm facing a rival digital services firm without proprietary infrastructure. Small changes in the marginal cost of investment lead to a discontinuous jump in investment incentives both for the infrastructure firm and the vertically-integrated firm if the latter has more infrastructure than the former. The infrastructure firm benefits from "commoditization" when its infrastructure is smaller. I derive conditions under which the resulting increase in investment is socially efficient. As the market share of the rival firm decreases, a trade-off arises between efficiency and "contestability", a key objective in European competition policy for digital markets. First published October 30, 2022. Current date see first page of the paper.
+<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/infrastructure.pdf" download> Download from this Github repository</a> 
 
 ###  Working paper: "The European Internal Energy Market’s Worth to the UK"
 with Farid Gasmi, TSE Working Paper, n° 19-1052, 11/2019. 
@@ -47,7 +47,6 @@ Abstract: This article proposes a two-country model of electricity trade under p
 
 ### Customer recognition and mobile geo-targeting (with Geza Sapi, Tim Reiz, Irina Baye. R&R at RIO)
 ### Empirical project on pricing algorithms (title to be announced) with Geza Sapi
-
 ### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, under review)
 
 ## Other publications
