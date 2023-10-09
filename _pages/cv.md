@@ -13,12 +13,15 @@ A short summary. For details, download my pdf CV <a href="https://github.com/phi
 
 Education
 ======
-* PhD in Economics, European University Institute, 2023 (expected)
+* PhD in Economics, European University Institute, 2023
 * Master in Economics, Toulouse School of Economics, 2017
 * Volkswirtschaftslehre B.Sc. (B.Sc. in Economics), Rheinische Friedrich-Wilhelms-Universität Bonn (University of Bonn), 2015
 
 Full-time work
 ======
+* OECD, Economics Department, SSD: Junior economist
+  * 10/2023 - ongoing: Work on Product Market Regulation (PMR) indicators.
+    
 * European Commission, DG COMP, Chief economist team: Trainee
   * 01/2022 - 05/2022: Economic analysis in merger and antitrust cases.
 
