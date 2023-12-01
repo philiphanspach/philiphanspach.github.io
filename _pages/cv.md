@@ -20,7 +20,7 @@ Education
 Full-time work
 ======
 * OECD, Economics Department, SSD: Junior economist
-  * 10/2023 - ongoing: Work on Product Market Regulation (PMR) indicators.
+  * 10/2023 - ongoing: Work on Product Market Regulation (PMR) indicators. Organizing a seminar on AI.
     
 * European Commission, DG COMP, Chief economist team: Trainee
   * 01/2022 - 05/2022: Economic analysis in merger and antitrust cases.
@@ -56,3 +56,9 @@ Part-time work
 
 * Institute for Financial Economics and Statistics, University of Bonn: Teaching Assistant
   * 04/2015 – 07/2015: Gave tutorials in undergraduate-level Corporate Finance. Received an award for teaching quality by student choice.
+
+Other professional activities
+======
+Served as referee for European Economic Review, International Journal of Industrial Organization, Journal of Competition Law and Economics, Journal of Public Economic Theory.
+
+Speaker at the conference and the workshop of "Antitrust in the Digital Age", November 2023 (Warsaw Justice Academy and Bird & Bird Poland, Warsaw)
