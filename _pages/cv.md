@@ -20,7 +20,7 @@ Education
 Full-time work
 ======
 * OECD, Economics Department, SSD: Junior economist
-  * 10/2023 - ongoing: Work on Product Market Regulation (PMR) indicators. Organizing a seminar on AI.
+  * 10/2023 - ongoing: Working on Product Market Regulation (PMR) indicators. Organizing a seminar on AI.
     
 * European Commission, DG COMP, Chief economist team: Trainee
   * 01/2022 - 05/2022: Economic analysis in merger and antitrust cases.
