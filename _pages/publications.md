@@ -17,6 +17,13 @@ author_profile: true
 -->
 ## Research
 
+### "The home bias in procurement. Cross-border procurement of medical supplies under Covid-19"
+International Journal of Industrial Organization: CRESSE special edition 2023; Volume 89, Published: 23 June 2023, https://doi.org/10.1016/j.ijindorg.2023.102976
+
+Abstract: Public procurement markets are often national a general agreement national preferencing. I exploit shocks occurring during the Covid-19 pandemic to two important factors, crisis urgency, measured through local infection rates, and increased buyer discretion, to study home bias in public procurement. Two causal difference-in-difference analyses on novel data for medical supplies in Europe show that home bias is not inevitable. An increase in local infection rates by one standard deviation locally increases the share of cross-border procurement by 19.3 percentage points over a baseline of 1.5 percent. Also, deregulation that allowed for buyer discretion caused cross-border procurement to increase by more than 35 percentage points. A simple theoretical model systematizes these findings. 
+<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/procurement.pdf" download>Download from this Github repository</a>
+
+
 ### "Analyzing exclusive dealing in two-sided markets: marketplaces for videogames"
 Journal of European Competition Law & Practice, 2023; lpad018,  Published: 26 May 2023, https://doi-org.eui.idm.oclc.org/10.1093/jeclap/lpad018
 
@@ -27,32 +34,30 @@ for consumer welfare. I estimate that market entry by Epic Games Store was unpro
 but that it has increased consumer welfare. When network effects are particularly high, we should expect more aggressive entry strategies
 (through subsidies and ED) but also lower consumer welfare from market fragmentation. <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/exclusive_dealing_2sm_preprint.pdf" download> a pre-print version is available on this website</a> 
 
-### "The home bias in procurement. Cross-border procurement of medical supplies under Covid-19"
-International Journal of Industrial Organization: CRESSE special edition 2023; Volume 89, Published: 23 June 2023, https://doi.org/10.1016/j.ijindorg.2023.102976
-
-Abstract: Public procurement markets are often national a general agreement national preferencing. I exploit shocks occurring during the Covid-19 pandemic to two important factors, crisis urgency, measured through local infection rates, and increased buyer discretion, to study home bias in public procurement. Two causal difference-in-difference analyses on novel data for medical supplies in Europe show that home bias is not inevitable. An increase in local infection rates by one standard deviation locally increases the share of cross-border procurement by 19.3 percentage points over a baseline of 1.5 percent. Also, deregulation that allowed for buyer discretion caused cross-border procurement to increase by more than 35 percentage points. A simple theoretical model systematizes these findings. 
-<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/procurement.pdf" download>Download from this Github repository</a>
-
 ### Working paper: "Internet infrastructure and competition in digital markets"
 Abstract: Large digital platform companies increasingly integrate vertically by building Internet infrastructure. These proprietary infrastructures confer quality advantages in markets for digital services. I model investment incentives for an infrastructure firm and a vertically-integrated firm facing a rival digital services firm without proprietary infrastructure. Small changes in the marginal cost of investment lead to a discontinuous jump in investment incentives both for the infrastructure firm and the vertically-integrated firm if the latter has more infrastructure than the former. The infrastructure firm benefits from "commoditization" when its infrastructure is smaller. I derive conditions under which the resulting increase in investment is socially efficient. As the market share of the rival firm decreases, a trade-off arises between efficiency and "contestability", a key objective in European competition policy for digital markets. First published October 30, 2022. Current date see first page of the paper.
 <a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/infrastructure.pdf" download> Download from this Github repository</a> 
 
+### Customer recognition and mobile geo-targeting
+with Geza Sapi, Tim Reiz, Irina Baye. Forthcoming at Review of Industrial Organization.
+
+Abstract: We consider competing mobile marketers that complement geo-targeting with behavior-based pricing and send personalized offers to customers. Firms observe consumers' locations and can infer their (heterogeneous) responsiveness to discounts from purchase histories. The overall profit effect of behavioral targeting is driven by firms' discount factor and consumers' transport cost and can be neutral, positive, or negative. We are the first to show that the profitability of behavioral data may depend on firms' time preferences. We derive conditions for when firms prefer more rather than less behavioral targeting.
+
 ###  Working paper: "The European Internal Energy Market’s Worth to the UK"
-with Farid Gasmi, TSE Working Paper, n° 19-1052, 11/2019. 
+with Farid Gasmi. TSE Working Paper, n° 19-1052, 11/2019. 
 
 Abstract: This article proposes a two-country model of electricity trade under peak-load pricing. We apply the model to France and the UK to assess the benefit to the UK of trade within the European internal energy market (IEM). Calibration and simulations of the model aimed at simulating bilateral trade in the market coupling process at electricity exchanges show the following. First, the occurrence of gains from trade for both countries is highly dependent on whether imported electricity affects the price in the local market and whether imports alleviate scarcity. Second, the main effect of importing electricity is a shift in welfare from domestic producers to domestic consumers of the importing country. Finally, the UK’s membership in the IEM generates additional welfare for the UK of up to 900 M€ per year across a range of scenarios in which the number of on-peak periods are exogenously varied in a conservative way relative to the actual data.
 <a href="http://publications.ut-capitole.fr/33483/1/wp_tse_1052.pdf" download>Download from UT Capitole</a> 
 
 ## Work in progress (ask for working papers or conference papers):
 
-### Customer recognition and mobile geo-targeting (with Geza Sapi, Tim Reiz, Irina Baye. R&R at RIO)
-### Empirical project on pricing algorithms (title to be announced) with Geza Sapi
-### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, under review)
+### Empirical project on pricing algorithms (title to be announced) with Geza Sapi and Marcel Wieting (revise and resubmit at a peer-reviewed journal)
+### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, working paper)
 
 ## Other publications
 
 #### You can (try to) keep the economists out of the DMA but you cannot keep out the economics 
-with Magdalena Viktoria Kuyterink, Competition Policy International. 22.12.2022 <a href="https://www.competitionpolicyinternational.com/you-can-try-to-keep-the-economists-out-of-the-dma-but-you-cannot-keep-out-the-economics/" download>Access at CPI (paywall).</a> 
+with Magdalena Viktoria Kuyterink. Competition Policy International. 22.12.2022 <a href="https://www.competitionpolicyinternational.com/you-can-try-to-keep-the-economists-out-of-the-dma-but-you-cannot-keep-out-the-economics/" download>Access at CPI (paywall).</a> 
 
 #### The hidden layer: Does big tech’s control of internet infrastructure stifle competition in digital markets?
 Competition Law Insight, 21.10.2022 <a href="https://www.competitionlawinsight.com/competition-issues/the-hidden-layer-152729.htm" download>Access at CLI (paywall).</a> 
@@ -67,13 +72,13 @@ with Nicolas Petit. Published on Promarket, the publication of the Stigler Cente
 <a href="https://promarket.org/2021/11/02/the-european-unions-big-policy-bet-against-the-tech-giants/" download>Read online</a>
 
 #### Unlocking the potential of AI : opportunities and challenges for European policy
-with Marina Sanchez del Villar, Policy Briefs; 2021/16; Florence School of Regulation (Communications and Media).
+with Marina Sanchez del Villar. Policy Briefs; 2021/16; Florence School of Regulation (Communications and Media).
 <a href="https://cadmus.eui.eu/handle/1814/71601" download>Download from Cadmus, the EUI Research Repository</a>
 
 #### Zur Weiterwälzung von Preisaufschlägen (On the Pass-On of Overcharges)
-with Frank Maier-Rigaud and C.-Philipp Heller, Journal of German and European Competition Law (WuW, Wirtschaft und Wettbewerb), 69(11), 561-568 [in German]. 
+with Frank Maier-Rigaud and C.-Philipp Heller. Journal of German and European Competition Law (WuW, Wirtschaft und Wettbewerb), 69(11), 561-568 [in German]. 
 <a href="https://papers.ssrn.com/abstract=3426049" download>Download from SSRN</a>
 
 #### Zur Weiterwälzung von Preisaufschlägen in regulierten Industrien (On the Pass-on of Overcharges in Regulated Industries) 
-with Frank Maier-Rigaud and C.-Philipp Heller, Neue Zeitschrift für Kartellrecht (NZKart), 12/2019, 650-658 [in German]. 
+with Frank Maier-Rigaud and C.-Philipp Heller. Neue Zeitschrift für Kartellrecht (NZKart), 12/2019, 650-658 [in German]. 
 <a href="https://papers.ssrn.com/abstract=3439294" download>Download from SSRN</a>
