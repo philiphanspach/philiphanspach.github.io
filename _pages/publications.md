@@ -60,8 +60,10 @@ Abstract: This article proposes a two-country model of electricity trade under p
 
 ## Work in progress (ask for working papers or conference papers):
 
-### Pricing algorithms out of the box: a study of the repricing industry (with Giacomo Calzolari, working paper)
-
+### Pricing algorithms out of the box: a study of the repricing industry, working paper
+with Giacomo Calzolari
+Abstract: Businesses, including sellers on online marketplaces, are increasingly adopting repricing algorithms, which autonomously set prices. Despite concerns about potential consequences such as inflated prices in online marketplaces, there is a notable lack of research focusing on the supply-side dynamics of the repricing industry. In this study, we address this gap by systematically documenting and classifying repricers, ranging from basic fixed-rule algorithms to sophisticated self-learning AI algorithms. Drawing on suppliers' descriptions, we analyze product features, fees, and associated services. Although the analysis is descriptive, we offer a first, broad overview of this new industry, potentially affecting millions of consumers in online marketplaces. Our focus is on describing the technical feature claims of these products where they are relevant for economic analysis in academic research and policy.
+<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/repricers.pdf" download>Download from this Github repository</a>
 ## Other publications
 
 #### You can (try to) keep the economists out of the DMA but you cannot keep out the economics 
