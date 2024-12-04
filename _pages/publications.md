@@ -17,6 +17,11 @@ author_profile: true
 -->
 ## Research (selection)
 
+### Pricing algorithms out of the box: a study of the repricing industry
+with Giacomo Calzolari. Forthcoming, Journal of Competition Law & Economics. 
+
+Abstract: Businesses, including sellers on online marketplaces, are increasingly adopting repricing algorithms, which autonomously set prices. Despite concerns about potential consequences such as inflated prices in online marketplaces, there is a notable lack of research focusing on the supply-side dynamics of the repricing industry. In this study, we address this gap by systematically documenting and classifying repricers, ranging from basic fixed-rule algorithms to sophisticated self-learning AI algorithms. Drawing on suppliers' descriptions, we analyze product features, fees, and associated services. Although the analysis is descriptive, we offer a first, broad overview of this new industry, potentially affecting millions of consumers in online marketplaces. Our focus is on describing the technical feature claims of these products where they are relevant for economic analysis in academic research and policy.
+
 ### Algorithms in the Marketplace: An Empirical Analysis of Automated Pricing in E-Commerce 
 with Geza Sapi and Marcel Wieting. Information Economics and Policy, Volume 69, December 2024, 101111. https://doi.org/10.1016/j.infoecopol.2024.101111
 
@@ -67,12 +72,7 @@ Full-text via DOI: 10.2870/787790
 
 Abstract: This thesis is composed of three independent chapters, the third of which consists of two separate but thematically related papers. In Chapter 1, I introduce a theoretical model of vertical integration with a novel demand structure to investigate the effect of vertical integration into Internet infrastructure on competition in digital markets. I find that pure infrastructure providers have an incentive to accommodate vertically integrated firms by becoming “commoditized” suppliers of infrastructure. My model explains new trends in digital markets and has implications for competition policy, industrial policy and political economy. In Chapter 2, I estimate the effects of crisis intensity and deregulation on home bias in procurement. Using a novel data set on the award of procurement contracts for medical supplies during the first wave of the Covid-19 pandemic in Europe, I study the propensity to award contracts internationally. I document a unique shift towards international procurement, driven by local spikes in infection rates and deregulation. In Chapter 3, I study the role of pricing algorithms in online marketplaces. Its first part is a joint article with Giacomo Calzolari that describes the algorithmic repricing industry. Based on a novel sample of 130 repricing companies, we study the prices and claimed attributes of pricing algorithms. We find that turn-key algorithmic pricing services are widely available, and discuss product features, fees, and associated services. The second part of Chapter 3 is a literature review on algorithmic pricing. I summarize findings from the economics literature covering computational, experimental, and empirical methods as well as adjacent fields. I argue that a lack of understanding of buyer responses to algorithmic pricing cycles and endogenous adoption of algorithmic pricing are the main gaps in the literature.
 
-## Work in progress (ask for working papers or conference papers):
 
-### Pricing algorithms out of the box: a study of the repricing industry, working paper
-with Giacomo Calzolari
-Abstract: Businesses, including sellers on online marketplaces, are increasingly adopting repricing algorithms, which autonomously set prices. Despite concerns about potential consequences such as inflated prices in online marketplaces, there is a notable lack of research focusing on the supply-side dynamics of the repricing industry. In this study, we address this gap by systematically documenting and classifying repricers, ranging from basic fixed-rule algorithms to sophisticated self-learning AI algorithms. Drawing on suppliers' descriptions, we analyze product features, fees, and associated services. Although the analysis is descriptive, we offer a first, broad overview of this new industry, potentially affecting millions of consumers in online marketplaces. Our focus is on describing the technical feature claims of these products where they are relevant for economic analysis in academic research and policy.
-<a href="https://github.com/PhilipHanspach/philiphanspach.github.io/tree/master/files/repricers.pdf" download>Download from this Github repository</a>
 ## Other publications
 
 #### You can (try to) keep the economists out of the DMA but you cannot keep out the economics 
