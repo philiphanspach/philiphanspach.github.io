@@ -23,16 +23,13 @@ Full-time work
   * 10/2024 - ongoing   
 
 * OECD, Economics Department, SSD: Junior economist
-  * 10/2023 - 10/2024: Working on Product Market Regulation (PMR) indicators. Organizing a seminar on AI.
+  * 10/2023 - 10/2024: Worked on Product Market Regulation (PMR) indicators. Organized a seminar on regulation of AI.
     
 * European Commission, DG COMP, Chief economist team: Trainee
   * 01/2022 - 05/2022: Economic analysis in merger and antitrust cases.
 
 * NERA Economic Consulting GmbH: Research Officer, promoted to Economic Analyst
-  * 10/2017 - 09/2019: Contributed to over 10 projects dealing with merger clearance and cartel damages claims (EU/national).
-  * Communication with clients and their legal counsel.
-  * Conducted a wide range of analytical tasks, including econometric analyses of time-series and panel data in large and small samples. Independent writing of and contribution to economic reports to be submitted for litigation.
-  * Industries I have worked with: chemicals, sugar, public transport, FMCG, automotive, telecommunication, payment cards.
+  * 10/2017 - 09/2019: Contributed to expert reports on cartel damages claims and merger clearance (EU/national). Handled communication with clients, conducted a wide range of analytical tasks, including econometric analyses of time-series and panel data in large and small samples. Industries I have worked with: chemicals, sugar, public transport, FMCG, automotive, telecommunication, payment cards.
  
 Part-time work
 ======
@@ -43,7 +40,6 @@ Part-time work
 
 * New York University - Florence Campus: Grader
   * 10/2021 - 12/2021: Created and graded problem sets and exams (with a colleague) to support the undergraduate course in econometrics, taught by Prof. Giampiero M. Gallo, based on Wooldridge, Introductory Econometrics (7th ed.)
-
 
 * Toulouse School of Economics: Research Assistant
   * 10/2021 - 12/2021: Analyzed and organized micro-level data on household expenditure for a project on consumer behavior. Researched appropriate econometric methods for analysis of panel data.
@@ -62,6 +58,6 @@ Part-time work
 
 Other professional activities
 ======
-Served as referee for European Economic Review, International Journal of Industrial Organization, Journal of Competition Law and Economics, Journal of Public Economic Theory.
+Served as referee for European Economic Review, International Journal of Industrial Organization, Journal of Competition Law and Economics, Journal of Public Economic Theory among others.
 
-Speaker at the conference and the workshop of "Antitrust in the Digital Age", November 2023 (Warsaw Justice Academy and Bird & Bird Poland, Warsaw)
+Invited speaker at the conference and the workshop of "Antitrust in the Digital Age", Warsaw, November 2023 (Warsaw Justice Academy and Bird & Bird Poland).
