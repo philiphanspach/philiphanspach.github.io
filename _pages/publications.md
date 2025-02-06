@@ -18,7 +18,7 @@ author_profile: true
 ## Research (selection)
 
 ### Pricing algorithms out of the box: a study of the repricing industry
-with Giacomo Calzolari. Forthcoming, Journal of Competition Law & Economics. 
+with Giacomo Calzolari. Journal of Competition Law & Economics, January 2025, nhaf003, https://doi.org/10.1093/joclec/nhaf003. 
 
 Abstract: Businesses, including sellers on online marketplaces, are increasingly adopting repricing algorithms, which autonomously set prices. Despite concerns about potential consequences such as inflated prices in online marketplaces, there is a notable lack of research focusing on the supply-side dynamics of the repricing industry. In this study, we address this gap by systematically documenting and classifying repricers, ranging from basic fixed-rule algorithms to sophisticated self-learning AI algorithms. Drawing on suppliers' descriptions, we analyze product features, fees, and associated services. Although the analysis is descriptive, we offer a first, broad overview of this new industry, potentially affecting millions of consumers in online marketplaces. Our focus is on describing the technical feature claims of these products where they are relevant for economic analysis in academic research and policy.
 
